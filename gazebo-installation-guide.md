@@ -6,7 +6,7 @@ $ wget http://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
 
 $ sudo apt-get update
 
-$ sudo apt-get install libgazebo7-dev
+$ sudo apt-get install gazebo7 libgazebo7-dev
 
 $ sudo apt-get install ros-kinetic-gazebo-ros-pkgs
 
