@@ -9,3 +9,5 @@ $ cd Downloads
 $ sudo chmod 777 qt-unified-linux-[VERSION].run
 
 $ ./qt-unified-linux-[VERSION].run
+
+[Follow common steps and make sure Qt is installed under /opt/Qt]
