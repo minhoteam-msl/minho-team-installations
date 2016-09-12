@@ -10,6 +10,8 @@ $ sudo apt-get install gazebo7 libgazebo7-dev
 
 $ sudo apt-get install ros-kinetic-gazebo-ros-pkgs
 
+$ sudo apt-get install libglm-dev
+
 #### Install SDF
 
 [Download source files in http://sdformat.org/download]
