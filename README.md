@@ -6,7 +6,6 @@ This package has several .txt files explaining how to install several software t
 * OpenCV
 * ROS
 * Gazebo
-* Git
 * LibFreenect
 * FlyCapture2
 
