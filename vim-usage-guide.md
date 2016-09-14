@@ -3,18 +3,22 @@
 ##Command Mode
 
 ###File commands
-:q -> quit\s\s
-:w -> write/save\s\s
-:wq -> write and quit\s\s
-:q! -> quit and overwrite errors (close without saving)\s\s
+:q -> quit   
+
+:w -> write/save   
+
+:wq -> write and quit   
+
+:q! -> quit and overwrite errors (close without saving)   
+
 
 ###Insertion Modes
-i -> insert before character\s\s
-I -> insert in the beggining of the line\s\s
-a -> append after the character\s\s
-A -> append in the end of the line\s\s
-o -> new line after the current line\s\s
-O -> new line before the current line\s\s
+i -> insert before character
+I -> insert in the beggining of the line
+a -> append after the character
+A -> append in the end of the line
+o -> new line after the current line
+O -> new line before the current line
 
 ###Replace Commands
 r -> replace single character
