@@ -5,24 +5,20 @@
 ###File commands
 :q -> quit   
 :w -> write/save   
-
 :wq -> write and quit   
-
 :q! -> quit and overwrite errors (close without saving)   
 
-
 ###Insertion Modes
-i -> insert before character
-I -> insert in the beggining of the line
-a -> append after the character
-A -> append in the end of the line
-o -> new line after the current line
-O -> new line before the current line
+i -> insert before character   
+I -> insert in the beggining of the line   
+a -> append after the character   
+A -> append in the end of the line   
+o -> new line after the current line   
+O -> new line before the current line   
 
 ###Replace Commands
-r -> replace single character
-
-R -> replace multi character in line
+r -> replace single character   
+R -> replace multi character in line   
 
 ###Navigation
 w -> jump to next word (also for W)
