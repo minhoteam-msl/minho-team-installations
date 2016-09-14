@@ -4,7 +4,6 @@
 
 ###File commands
 :q -> quit   
-
 :w -> write/save   
 
 :wq -> write and quit   
