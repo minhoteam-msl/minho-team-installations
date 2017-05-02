@@ -35,3 +35,5 @@ $ cd ~/catkin_ws
 $ catkin_make
 
 $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
+
+$ sudo apt-get -y install libcgal-*
