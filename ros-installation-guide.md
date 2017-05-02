@@ -43,3 +43,5 @@ $ sudo apt-get -y install libtool
 $ sudo apt-get -y install autoconf
 
 $ sudo apt-get -y install automake
+
+$ sudo apt-get -y install libsisl-dev
