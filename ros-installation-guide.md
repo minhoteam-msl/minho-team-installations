@@ -37,3 +37,9 @@ $ catkin_make
 $ echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 
 $ sudo apt-get -y install libcgal-*
+
+$ sudo apt-get -y install libtool
+
+$ sudo apt-get -y install autoconf
+
+$ sudo apt-get -y install automake
